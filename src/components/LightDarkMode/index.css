@@ -1,0 +1,52 @@
+.background_container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CardContainerDark {
+  background-color: #000000;
+  text-align: center;
+  border: 2px solid #000000;
+  padding:30px;
+  border-radius: 20px;
+}
+
+.headingDark {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.DarkModeBtn {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+}
+
+.CardContainerWhite {
+  background-color: #ffffff;
+  text-align: center;
+  border: 2px solid #000000;
+  padding:30px;
+  border-radius: 20px;
+}
+
+.headingWhite {
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: bold;
+}
+
+.LightModeBtn {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  border: 2px solid #000000;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+}
